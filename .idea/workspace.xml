@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54755cd4-b021-4a9a-b51a-5e758e781a6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nf1nTNpZSexb8JTrdf4Udaljs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54755cd4-b021-4a9a-b51a-5e758e781a6c" name="Default Changelist" comment="" />
+      <created>1611766497612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611766497612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="145" width="1200" height="574" key="AVDManager" timestamp="1611766646123">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="120" y="145" width="1200" height="574" key="AVDManager/0.25.1440.814@0.25.1440.814" timestamp="1611766646123" />
+    <state x="385" y="194" key="run.anything.popup" timestamp="1611766610896">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="385" y="194" key="run.anything.popup/0.25.1440.814@0.25.1440.814" timestamp="1611766610896" />
+  </component>
+</project>
